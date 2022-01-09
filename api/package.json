@@ -1,4 +1,8 @@
 {
+  "engines":{
+    "node":">=v14.18.1",
+    "npm":"<=8.3.0"
+  },
   "name": "react-nodejs-example",
   "version": "1.0.0",
   "description": "example project react with nodejs",
